@@ -2,6 +2,7 @@ import userData from "../userData.json";
 import Profile from "./Profile/Profile";
 import FriendList from "./FriendList/FriendList";
 import friends from "../friends.json";
+import "../index.css"
 
 const App = () => {
   return (

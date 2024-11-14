@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 48px;
+}
+
+.listFriends {
+    width: 100px;
+    border: solid 2px #242424;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+}
